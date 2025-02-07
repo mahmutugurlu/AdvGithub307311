@@ -19,6 +19,9 @@ public class MyClass {
 
         System.out.println(" degisiklik ");
 
+        //mahmut degisikli
+        System.out.println(" degisiklik 2 ");
+
 
 
 
