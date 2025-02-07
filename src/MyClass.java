@@ -22,7 +22,9 @@ public class MyClass {
         //mahmut degisikli
         System.out.println(" degisiklik 2 ");
 
+
         //dev brancinde localde degisiklik
+
 
 
 
