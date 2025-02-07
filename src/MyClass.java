@@ -22,7 +22,7 @@ public class MyClass {
         //mahmut degisikli
         System.out.println(" degisiklik 2 ");
 
-
+        //github degisiklik
 
 
 
